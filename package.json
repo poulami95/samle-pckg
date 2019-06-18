@@ -1,0 +1,26 @@
+{
+  "name": "smpl-pckg-for-test",
+  "version": "1.0.0",
+  "description": "This is a sample package to learn building packages with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poulami95/samle-pckg.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "poulami95",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/poulami95/samle-pckg/issues"
+  },
+  "homepage": "https://github.com/poulami95/samle-pckg#readme",
+  "dependencies": {
+    "bootstrap": "^3.2.0",
+    "react": "^16.8.6"
+  }
+}
